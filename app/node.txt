@@ -1,0 +1,14 @@
+//logical operations
+
+//$inc => Incerement, -1/-2/3
+//$min => minimum
+//$max=> maximum
+//$set => set data
+//$unset => remove a property from an object
+
+//Array Operators
+
+//$push
+//$pop
+//$pull
+//$addToSet
